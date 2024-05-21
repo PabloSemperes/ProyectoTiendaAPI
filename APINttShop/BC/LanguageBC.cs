@@ -9,7 +9,7 @@ namespace API_nttshop.BC
     public class LanguageBC
     {
         private readonly LanguageDAC languageDAC = new LanguageDAC();
-
+        //Mi primer comentario en desarrollo
         public GetAllLanguagesResponse getAllLanguages()
         {
             GetAllLanguagesResponse result = new GetAllLanguagesResponse();
