@@ -28,7 +28,7 @@ namespace API_nttshop.BC
 
             return result;
         }
-
+        //Agarrar solo un idioma
         public GetLanguageResponse getLanguage(IdRequest request)
         {
             GetLanguageResponse result = new GetLanguageResponse();
