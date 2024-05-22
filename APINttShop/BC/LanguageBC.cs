@@ -50,7 +50,7 @@ namespace API_nttshop.BC
 
             return result;
         }
-
+        //Cambio
         public BaseReponseModel InsertLanguage(LanguageRequest request)
         {
             BaseReponseModel result = new BaseReponseModel();
