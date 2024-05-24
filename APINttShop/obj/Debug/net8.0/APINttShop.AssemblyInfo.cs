@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("APINttShop")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+13cf77009c6dcd36fc8b28f125ddd71df3f20fda")]
 [assembly: System.Reflection.AssemblyProductAttribute("APINttShop")]
 [assembly: System.Reflection.AssemblyTitleAttribute("APINttShop")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
