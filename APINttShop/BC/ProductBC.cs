@@ -14,6 +14,8 @@ namespace APINttShop.BC
     {
         private readonly ProductDAC productDAC = new ProductDAC();
 
+        //hola 
+
         public GetProductResponse getProduct(int id, string? lang)
         {
             GetProductResponse result = new GetProductResponse();
